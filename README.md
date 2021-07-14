@@ -1,4 +1,4 @@
-# Using FMI on the cloud
+# FMI in the Cloud
 
 In this tutorial we will take our FMUs to the cloud.
 After a short introduction to FMPy, an FMI library for Python, we create a Jupyter Notebook and learn how to upload resources, inspect and simulate an FMU, and to plot and download the simulation results.
