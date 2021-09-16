@@ -16,7 +16,7 @@ To create the Conda environment
 - create a new Conda environment
 
 ```
-conda create -c conda-forge -n fmi-tutorial python=3.9 fmpy
+conda create -n fmi-tutorial -c conda-forge python=3.9 fmpy
 ```
 
 - activate the environment
