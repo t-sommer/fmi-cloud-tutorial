@@ -33,9 +33,7 @@ conda activate fmi-tutorial
 
 `Option 2:` run the Jupyter Notebook locally
 
-- clone this repository
-- change into the directory 
-- run
+- change into the directory where you downloaded or cloned this repository and run
 
 ```
 jupyter Heater.ipynb
