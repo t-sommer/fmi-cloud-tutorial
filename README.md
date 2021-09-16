@@ -55,6 +55,7 @@ Exercises:
 - add an additional parameter
 - add the description from the modelDescription.xml below the image
 - create a custom input signal
+- deploy the web app
 
 ## Part 3: Hackathon and Q&A
 
