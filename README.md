@@ -1,14 +1,54 @@
 # FMI in the Cloud
 
-In this tutorial we will take our FMUs into the cloud.
-After a short introduction to FMPy, an FMI library for Python, we create a Jupyter Notebook and learn how to upload resources, inspect and simulate an FMU, and to plot and download the simulation results.
-In the second part we write a web app and learn how to serve a web page, add input elements and finally to run a simulation on the server and to present the output.
-The third part is a hackathon and Q&A where you can build your own web app and get answers to your questions and give feedback to the developers.
-Make sure to visit https://github.com/CATIA-Systems/fmi-cloud-tutorial before joining the tutorial.
+This repository contains the materials and instructions for the tutorial ["FMI in the Cloud"](https://2021.international.conference.modelica.org/vendor_tutorial.html) at the [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/).
 
-TODO: Abstract
-- link to GitHub project
+## Prerequesites
 
+- a [Google account](https://accounts.google.com/SignUp) to run the Python Notebook on [Google Colab](https://colab.research.google.com/)
+- a Conda environment with FMPy to run the Jupyter Notebook locally and create a Web App
+
+To create the Conda environment
+
+- install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (if you don't already have Conda installed)
+
+- create a new Conda environment
+
+```
+conda create -c conda-forge -n fmi-tutorial python=3.9 fmpy
+```
+
+- activate the environment
+
+```
+conda activate fmi-tutorial
+```
+
+## Part 1: Create a Jupyter Notebook
+
+`Option 1`: run the Jupyter Notebook on the cloud:
+
+- [Open Heater.ipynb on Google Colab](https://colab.research.google.com/github/t-sommer/fmi-webapp-tutorial/blob/main/Heater.ipynb).
+
+`Option 2`: run the Jupyter Notebook locally:
+
+- clone this repository
+- change into the directory 
+- run
+
+```
+jupyter Heater.ipynb
+```
+
+## Part 2: Create a Web App
+
+## Part 3: Hackathon and Q&A
+
+Build your own Jupyter Notebooks and Web Apps and ask any questions about [FMPy](https://github.com/CATIA-Systems/FMPy).
+
+or run 
+
+```
+jupyter 
 ## Installation
 
 - Google Colab? https://mybinder.org/?
