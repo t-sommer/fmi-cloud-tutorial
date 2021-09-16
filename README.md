@@ -6,7 +6,7 @@ This repository contains the materials and instructions for the tutorial [FMI in
 
 - a [Google account](https://accounts.google.com/SignUp) to run the Python Notebook on [Google Colab](https://colab.research.google.com/)
 - a clone or local copy of this repository
-- a Conda environment with FMPy to run the Jupyter Notebook locally and to run the Web App
+- a Conda environment with [FMPy](https://github.com/CATIA-Systems/FMPy) to run the Jupyter Notebook locally and to run the Web App
 - a Python IDE or text editor to write the Web App
 
 To create the Conda environment
@@ -43,7 +43,7 @@ jupyter Heater.ipynb
 
 ## Part 3: Hackathon and Q&A
 
-Build your own Jupyter Notebooks and Web Apps and ask any questions about [FMPy](https://github.com/CATIA-Systems/FMPy).
+Build your own Jupyter Notebooks and Web Apps and ask any questions about FMPy.
 
 or run 
 
