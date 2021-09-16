@@ -6,7 +6,8 @@ This repository contains the materials and instructions for the tutorial ["FMI i
 
 - a [Google account](https://accounts.google.com/SignUp) to run the Python Notebook on [Google Colab](https://colab.research.google.com/)
 - a clone or local copy of this repository
-- a Conda environment with FMPy to run the Jupyter Notebook locally and a Python IDE or editor to create the Web App
+- a Conda environment with FMPy to run the Jupyter Notebook locally and to run the Web App
+- a Python IDE or text editor to write the Web App
 
 To create the Conda environment
 
