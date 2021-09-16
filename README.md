@@ -44,6 +44,12 @@ jupyter Heater.ipynb
 
 [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
 
+Exercises:
+
+- change the default simulation time to 50 s
+- change the result variables
+- add an additional parameter
+
 ## Part 3: Hackathon and Q&A
 
 Build your own Jupyter Notebooks and Web Apps and ask any questions about FMPy.
