@@ -1,6 +1,6 @@
 # FMI in the Cloud
 
-This repository contains the materials and instructions for the tutorial ["FMI in the Cloud"](https://2021.international.conference.modelica.org/vendor_tutorial.html) at the [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/).
+This repository contains the materials and instructions for the tutorial [FMI in the Cloud](https://2021.international.conference.modelica.org/vendor_tutorial.html) at the [14th International Modelica Conference 2021](https://2021.international.conference.modelica.org/).
 
 ## Prerequesites
 
