@@ -42,13 +42,19 @@ jupyter Heater.ipynb
 
 ## Part 2: Create a Web App
 
-[Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
+Resources and inspirations:
+
+- [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
+- [generic FMPy Web App](https://github.com/CATIA-Systems/FMPy/blob/master/fmpy/webapp/__main__.py)
+- [FMU Check](https://fmu-check.herokuapp.com/) ([source code](https://github.com/modelica/fmu-check))
 
 Exercises:
 
 - change the default simulation time to 50 s
 - change the result variables
 - add an additional parameter
+- add the description from the modelDescription.xml below the image
+- create a custom input signal
 
 ## Part 3: Hackathon and Q&A
 
