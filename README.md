@@ -42,6 +42,8 @@ jupyter Heater.ipynb
 
 ## Part 2: Create a Web App
 
+[Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
+
 ## Part 3: Hackathon and Q&A
 
 Build your own Jupyter Notebooks and Web Apps and ask any questions about FMPy.
