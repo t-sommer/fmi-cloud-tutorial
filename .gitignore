@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# PyCharm project
+.idea/
+
 *.csv
 !Heater_in.csv
