@@ -30,7 +30,7 @@ conda activate fmi-tutorial
 
 `Option 1:` run the Jupyter Notebook on the cloud
 
-- [open Heater.ipynb](https://colab.research.google.com/github/t-sommer/fmi-webapp-tutorial/blob/main/Heater.ipynb) on Google Colab
+- [open Heater.ipynb](https://colab.research.google.com/github/t-sommer/fmi-cloud-tutorial/blob/main/Heater.ipynb) on Google Colab
 
 `Option 2:` run the Jupyter Notebook locally
 
