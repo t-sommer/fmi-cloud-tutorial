@@ -45,6 +45,7 @@ jupyter Heater.ipynb
 Resources and inspirations:
 
 - [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)
+- [Plotly Python Examples](https://plotly.com/python/)
 - [Bootstrap CSS Framework](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - [generic FMPy Web App](https://github.com/CATIA-Systems/FMPy/blob/master/fmpy/webapp/__main__.py)
 - [FMU Check](https://fmu-check.herokuapp.com/) ([source code](https://github.com/modelica/fmu-check))
