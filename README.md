@@ -17,7 +17,7 @@ To create the Conda environment
 - create a new Conda environment
 
 ```
-conda create -n fmi-tutorial -c conda-forge python=3.9 fmpy
+conda create -n fmi-tutorial -c conda-forge python=3.9 fmpy notebook ipywidgets
 ```
 
 - activate the environment
