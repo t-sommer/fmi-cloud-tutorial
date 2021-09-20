@@ -37,7 +37,7 @@ conda activate fmi-tutorial
 - change into the directory where you downloaded or cloned this repository and run
 
 ```
-jupyter Heater.ipynb
+jupyter notebook Heater.ipynb
 ```
 
 ## Part 2: Create a Web App
